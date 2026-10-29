@@ -1,0 +1,280 @@
+{
+ "geometry": {
+  "P1 (AoE)": {
+   "lb": [
+    80.0,
+    -60.0
+   ],
+   "antipode": [
+    260.0,
+    60.0
+   ]
+  },
+  "P2": {
+   "lb": [
+    234.0,
+    52.5
+   ],
+   "antipode": [
+    54.0,
+    -52.5
+   ]
+  },
+  "CoE axis": {
+   "lb": [
+    180.0,
+    -15.0
+   ],
+   "antipode": [
+    360.0,
+    15.0
+   ]
+  },
+  "P1-P2 plane normal": {
+   "lb": [
+    98.4,
+    28.7
+   ],
+   "antipode": [
+    278.4,
+    -28.7
+   ]
+  }
+ },
+ "patch_separations_deg": {
+  "patch1@sig30": {
+   "P1 (AoE)": {
+    "to_axis": 123.1,
+    "to_antipode": 56.9
+   },
+   "P2": {
+    "to_axis": 47.1,
+    "to_antipode": 132.9
+   },
+   "CoE axis": {
+    "to_axis": 61.3,
+    "to_antipode": 118.7
+   }
+  },
+  "patch2@sig30": {
+   "P1 (AoE)": {
+    "to_axis": 65.7,
+    "to_antipode": 114.3
+   },
+   "P2": {
+    "to_axis": 130.5,
+    "to_antipode": 49.5
+   },
+   "CoE axis": {
+    "to_axis": 147.6,
+    "to_antipode": 32.4
+   }
+  },
+  "patch1@sig40": {
+   "P1 (AoE)": {
+    "to_axis": 123.7,
+    "to_antipode": 56.3
+   },
+   "P2": {
+    "to_axis": 45.1,
+    "to_antipode": 134.9
+   },
+   "CoE axis": {
+    "to_axis": 57.2,
+    "to_antipode": 122.8
+   }
+  },
+  "patch2@sig40": {
+   "P1 (AoE)": {
+    "to_axis": 65.3,
+    "to_antipode": 114.7
+   },
+   "P2": {
+    "to_axis": 130.8,
+    "to_antipode": 49.2
+   },
+   "CoE axis": {
+    "to_axis": 147.1,
+    "to_antipode": 32.9
+   }
+  },
+  "patch1@sig50": {
+   "P1 (AoE)": {
+    "to_axis": 122.2,
+    "to_antipode": 57.8
+   },
+   "P2": {
+    "to_axis": 44.8,
+    "to_antipode": 135.2
+   },
+   "CoE axis": {
+    "to_axis": 51.1,
+    "to_antipode": 128.9
+   }
+  },
+  "patch2@sig50": {
+   "P1 (AoE)": {
+    "to_axis": 65.7,
+    "to_antipode": 114.3
+   },
+   "P2": {
+    "to_axis": 130.4,
+    "to_antipode": 49.6
+   },
+   "CoE axis": {
+    "to_axis": 147.4,
+    "to_antipode": 32.6
+   }
+  },
+  "patch1@sig60": {
+   "P1 (AoE)": {
+    "to_axis": 118.7,
+    "to_antipode": 61.3
+   },
+   "P2": {
+    "to_axis": 47.0,
+    "to_antipode": 133.0
+   },
+   "CoE axis": {
+    "to_axis": 44.0,
+    "to_antipode": 136.0
+   }
+  },
+  "patch2@sig60": {
+   "P1 (AoE)": {
+    "to_axis": 66.5,
+    "to_antipode": 113.5
+   },
+   "P2": {
+    "to_axis": 129.6,
+    "to_antipode": 50.4
+   },
+   "CoE axis": {
+    "to_axis": 148.2,
+    "to_antipode": 31.8
+   }
+  }
+ },
+ "residual_extrema": {
+  "max": {
+   "lb": [
+    177.2,
+    19.5
+   ],
+   "to_P2": 54.6,
+   "to_minusP2": 125.4,
+   "to_P1": 110.4,
+   "to_minusP1": 69.6
+  },
+  "min": {
+   "lb": [
+    101.2,
+    2.4
+   ],
+   "to_P2": 112.3,
+   "to_minusP2": 67.7,
+   "to_P1": 64.6,
+   "to_minusP1": 115.4
+  }
+ },
+ "residual_at_points_pct": {
+  "P1 (AoE)": {
+   "axis": -0.32,
+   "antipode": 2.85
+  },
+  "P2": {
+   "axis": 3.44,
+   "antipode": -3.38
+  },
+  "CoE axis": {
+   "axis": 0.66,
+   "antipode": -2.75
+  },
+  "P1-P2 plane normal": {
+   "axis": 2.32,
+   "antipode": -4.85
+  }
+ },
+ "residual_rms_pct": 3.46,
+ "Cl": {
+  "1": {
+   "resid": 0.0011919689541917335,
+   "noise_mean": 0.007071402782335743,
+   "ratio": 0.17,
+   "p_noise": 0.924
+  },
+  "2": {
+   "resid": 0.000990301989001989,
+   "noise_mean": 0.00157221104149644,
+   "ratio": 0.63,
+   "p_noise": 0.656
+  },
+  "3": {
+   "resid": 0.00011890375986090401,
+   "noise_mean": 0.0001453656537781441,
+   "ratio": 0.82,
+   "p_noise": 0.507
+  },
+  "4": {
+   "resid": 0.00043532711939048545,
+   "noise_mean": 0.00017282523472277113,
+   "ratio": 2.52,
+   "p_noise": 0.016
+  },
+  "5": {
+   "resid": 6.077344159105664e-05,
+   "noise_mean": 5.931084957040981e-05,
+   "ratio": 1.02,
+   "p_noise": 0.398
+  },
+  "6": {
+   "resid": 1.811217303001584e-05,
+   "noise_mean": 1.6089463345740568e-05,
+   "ratio": 1.13,
+   "p_noise": 0.298
+  }
+ },
+ "Cl_note": "noise sims from the Migkas map covariance (V diag(lam) V^T on log10 H), linearised to A; model-fit dof not subtracted",
+ "axes": {
+  "2": {
+   "axis": [
+    357.8,
+    60.4
+   ],
+   "m2_concentration": 0.988,
+   "sectoral_fraction": 0.988,
+   "sep_deg": {
+    "P1 (AoE)": 43.9,
+    "P2": 58.5,
+    "CoE axis": 45.5,
+    "P1-P2 plane normal": 70.3
+   },
+   "p_random_axis": {
+    "P1 (AoE)": 0.28,
+    "P2": 0.477,
+    "CoE axis": 0.299,
+    "P1-P2 plane normal": 0.662
+   }
+  },
+  "3": {
+   "axis": [
+    166.8,
+    64.9
+   ],
+   "m2_concentration": 0.632,
+   "sectoral_fraction": 0.592,
+   "sep_deg": {
+    "P1 (AoE)": 39.4,
+    "P2": 35.1,
+    "CoE axis": 80.6,
+    "P1-P2 plane normal": 55.1
+   },
+   "p_random_axis": {
+    "P1 (AoE)": 0.227,
+    "P2": 0.181,
+    "CoE axis": 0.836,
+    "P1-P2 plane normal": 0.428
+   }
+  }
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "l4_axis": [
+  115.3,
+  31.4
+ ],
+ "l4_m2conc": 0.6475438017953085,
+ "l4_sectoral": 0.5499046822227518,
+ "null_l2_sectoral_median": 0.9750146125369241,
+ "p_l2_sectoral": 0.37333333333333335,
+ "null_l4_m2conc_median": 0.7427146948622012,
+ "p_l4_m2conc": 0.76,
+ "l4_sep_deg": {
+  "P1 (AoE)": 84.1,
+  "P2": 80.6,
+  "CoE axis": 77.4,
+  "P1-P2 plane normal": 14.9
+ },
+ "l4_p_random_axis": {
+  "P1 (AoE)": 0.897,
+  "P2": 0.837,
+  "CoE axis": 0.782,
+  "P1-P2 plane normal": 0.034
+ }
+}

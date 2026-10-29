@@ -1,0 +1,28 @@
+{
+ "A": {
+  "n": 71,
+  "chi2_isotropic": 44.71,
+  "chi2_model": 4.2,
+  "extra_params": 6,
+  "dchi2": 40.51,
+  "p": 3.6110237081609866e-07,
+  "sigma": 5.088397234387266,
+  "chi2_model_per_dof": 0.07
+ },
+ "B": {
+  "n": 71,
+  "chi2_isotropic": 38.59,
+  "chi2_model": 6.9,
+  "extra_params": 3,
+  "dchi2": 31.7,
+  "p": 6.063903286155376e-07,
+  "sigma": 4.989170744092201,
+  "chi2_model_per_dof": 0.1
+ },
+ "A+B": {
+  "dchi2": 72.21,
+  "extra_params": 9,
+  "p": 5.605088873551007e-12,
+  "sigma": 6.889342382895235
+ }
+}

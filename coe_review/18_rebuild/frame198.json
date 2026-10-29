@@ -1,0 +1,109 @@
+{
+ "CoE": [
+  198,
+  -4
+ ],
+ "theta0": 79.99,
+ "DR": 2.878,
+ "D_Gpc": 41.2,
+ "P1": [
+  260.0,
+  60.0
+ ],
+ "P2": [
+  122.2,
+  -62.9
+ ],
+ "plane_normal": [
+  290.0,
+  -26.6
+ ],
+ "T1": 7,
+ "T1_rows": [
+  [
+   "A",
+   "CMB dipole cold",
+   2.29,
+   false
+  ],
+  [
+   "A",
+   "Bulk flow away",
+   0.78,
+   false
+  ],
+  [
+   "A",
+   "CMB Cold Spot",
+   -3.5,
+   true
+  ],
+  [
+   "A",
+   "CMB dipole hot",
+   -1.1,
+   false
+  ],
+  [
+   "A",
+   "Bulk flow toward",
+   1.37,
+   true
+  ],
+  [
+   "B",
+   "NVSS cold",
+   -0.73,
+   true
+  ],
+  [
+   "B",
+   "Hemi. asym. cold",
+   1.04,
+   false
+  ],
+  [
+   "B",
+   "CatWISE cold",
+   -1.13,
+   true
+  ],
+  [
+   "B",
+   "NVSS hot",
+   1.34,
+   true
+  ],
+  [
+   "B",
+   "Hemi. asym. hot",
+   1.38,
+   true
+  ],
+  [
+   "B",
+   "CatWISE hot",
+   1.26,
+   true
+  ],
+  [
+   "B",
+   "Loop I / NPS",
+   -3.28,
+   false
+  ]
+ ],
+ "T2": 6.7,
+ "null_A": {
+  "p_T1": 0.4387,
+  "p_T2": 0.0066,
+  "p_joint": 0.0142,
+  "sigma_joint": 2.4521638140532898
+ },
+ "null_B": {
+  "p_T1": 0.4276,
+  "p_T2": 0.0383,
+  "p_joint": 0.0753,
+  "sigma_joint": 1.7786326962507264
+ }
+}

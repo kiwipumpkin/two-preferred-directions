@@ -1,0 +1,175 @@
+{
+ "60.18": {
+  "score": 11,
+  "rows": [
+   [
+    "A",
+    "CMB dipole cold",
+    -0.013,
+    true
+   ],
+   [
+    "A",
+    "Bulk flow away",
+    -2.863,
+    true
+   ],
+   [
+    "A",
+    "CMB Cold Spot",
+    -2.778,
+    true
+   ],
+   [
+    "A",
+    "CMB dipole hot",
+    1.56,
+    true
+   ],
+   [
+    "A",
+    "Bulk flow toward",
+    0.93,
+    true
+   ],
+   [
+    "B",
+    "NVSS cold",
+    -5.046,
+    true
+   ],
+   [
+    "B",
+    "Hemi. asym. cold",
+    0.064,
+    false
+   ],
+   [
+    "B",
+    "CatWISE cold",
+    -5.022,
+    true
+   ],
+   [
+    "B",
+    "NVSS hot",
+    1.871,
+    true
+   ],
+   [
+    "B",
+    "Hemi. asym. hot",
+    1.358,
+    true
+   ],
+   [
+    "B",
+    "CatWISE hot",
+    1.482,
+    true
+   ],
+   [
+    "B",
+    "Loop I / NPS",
+    1.838,
+    true
+   ]
+  ]
+ },
+ "240.18": {
+  "score": 9,
+  "rows": [
+   [
+    "A",
+    "CMB dipole cold",
+    0.113,
+    false
+   ],
+   [
+    "A",
+    "Bulk flow away",
+    -2.729,
+    true
+   ],
+   [
+    "A",
+    "CMB Cold Spot",
+    -2.65,
+    true
+   ],
+   [
+    "A",
+    "CMB dipole hot",
+    3.024,
+    true
+   ],
+   [
+    "A",
+    "Bulk flow toward",
+    3.898,
+    true
+   ],
+   [
+    "B",
+    "NVSS cold",
+    -1.67,
+    true
+   ],
+   [
+    "B",
+    "Hemi. asym. cold",
+    1.913,
+    false
+   ],
+   [
+    "B",
+    "CatWISE cold",
+    -2.025,
+    true
+   ],
+   [
+    "B",
+    "NVSS hot",
+    1.358,
+    true
+   ],
+   [
+    "B",
+    "Hemi. asym. hot",
+    1.359,
+    true
+   ],
+   [
+    "B",
+    "CatWISE hot",
+    0.623,
+    true
+   ],
+   [
+    "B",
+    "Loop I / NPS",
+    -0.35,
+    false
+   ]
+  ]
+ },
+ "null": {
+  "N": 100000,
+  "counts": [
+   0,
+   110,
+   1339,
+   4400,
+   9600,
+   16471,
+   24167,
+   21849,
+   12354,
+   5430,
+   2669,
+   1251,
+   360
+  ],
+  "p": 0.01611
+ }
+}
