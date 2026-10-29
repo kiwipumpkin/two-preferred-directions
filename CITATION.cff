@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Two preferred directions: a center of expansion and the plane of evil as a frame for large-scale anomalies"
+authors:
+  - family-names: Alameddin
+    given-names: C.
+doi: 10.5281/zenodo.23749940
+repository-code: "https://github.com/kiwipumpkin/two-preferred-directions"
+license: MIT
+date-released: "2026-10-28"
+year: 2026

@@ -124,3 +124,8 @@ Note (1): `frame_angles.py` computes:
 - **Paper:** the paper built to 19 pages.
 - **Also run and identical:** `10_residual_P2/resid_p2.py` (about 9 min), and the supernova scripts with the Pantheon+ covariance supplied (`sn_test.py`: even part 0.04 ± 0.05; `sn_split.py`: dipole 1.05 ± 0.46).
 - **Not re-run:** the steps listed under "Heavy steps".
+
+
+License: MIT, see [LICENSE](LICENSE).
+
+Citation: see [CITATION.cff](CITATION.cff).
