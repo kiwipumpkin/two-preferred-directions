@@ -1,5 +1,5 @@
 """Shared code for the 2-D H-map comparison (CoE directional Hubble rate vs Migkas+2020 clusters).
-Read-only use of the repo; all outputs go to /home/user/coe_review/hmap/.
+Read-only use of the repo; all outputs go to coe_review/hmap/ (inside this repo).
 Single-threaded: set BLAS threads to 1 before numpy import."""
 import os as _os; PKG = globals().get("PKG") or _os.environ.get("COE_PKG") or _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '../..'))  # package root
 import os
